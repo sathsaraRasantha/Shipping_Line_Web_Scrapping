@@ -1,0 +1,454 @@
+>>>Time : 2021-07-20 10:07:03.273560
+>>>Passed Error : Message: chrome not reachable
+  (Session info: chrome=91.0.4472.164)
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 39
+>>>Reason : Message: chrome not reachable
+  (Session info: chrome=91.0.4472.164)
+
+###########################################################################
+>>>Time : 2021-07-20 10:36:35.325299
+>>>Passed Error : Message: 
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 39
+>>>Reason : Message: 
+
+###########################################################################
+>>>Time : 2021-07-20 10:37:26.343927
+>>>Passed Error : Message: 
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 39
+>>>Reason : Message: 
+
+###########################################################################
+>>>Time : 2021-07-20 10:40:37.435238
+>>>Passed Error : Message: no such element: Unable to locate element: {"method":"css selector","selector":"td"}
+  (Session info: chrome=91.0.4472.164)
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 115
+>>>Reason : Message: no such element: Unable to locate element: {"method":"css selector","selector":"td"}
+  (Session info: chrome=91.0.4472.164)
+
+###########################################################################
+>>>Time : 2021-07-20 10:42:23.497926
+>>>Passed Error : Message: 
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 39
+>>>Reason : Message: 
+
+###########################################################################
+>>>Time : 2021-07-20 10:55:51.103441
+>>>Passed Error : Message: no such element: Unable to locate element: {"method":"css selector","selector":"td"}
+  (Session info: chrome=91.0.4472.164)
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 115
+>>>Reason : Message: no such element: Unable to locate element: {"method":"css selector","selector":"td"}
+  (Session info: chrome=91.0.4472.164)
+
+###########################################################################
+>>>Time : 2021-07-20 11:16:11.214455
+>>>Passed Error : Message: 
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 39
+>>>Reason : Message: 
+
+###########################################################################
+>>>Time : 2021-07-20 11:55:42.209232
+>>>Passed Error : Message: unknown error: cannot determine loading status
+from disconnected: unable to send message to renderer
+  (Session info: chrome=91.0.4472.164)
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 38
+>>>Reason : Message: unknown error: cannot determine loading status
+from disconnected: unable to send message to renderer
+  (Session info: chrome=91.0.4472.164)
+
+###########################################################################
+>>>Time : 2021-07-20 12:05:41.115509
+>>>Passed Error : Message: timeout: Timed out receiving message from renderer: 296.589
+  (Session info: chrome=91.0.4472.164)
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 38
+>>>Reason : Message: timeout: Timed out receiving message from renderer: 296.589
+  (Session info: chrome=91.0.4472.164)
+
+###########################################################################
+>>>Time : 2021-07-20 12:17:54.402134
+>>>Passed Error : Message: 
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 39
+>>>Reason : Message: 
+
+###########################################################################
+>>>Time : 2021-07-20 12:19:47.946211
+>>>Passed Error : Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.164)
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 70
+>>>Reason : Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.164)
+
+###########################################################################
+>>>Time : 2021-07-20 12:26:05.338432
+>>>Passed Error : list index out of range
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 128
+>>>Reason : list index out of range
+###########################################################################
+>>>Time : 2021-07-20 12:34:00.754882
+>>>Passed Error : Message: 
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 39
+>>>Reason : Message: 
+
+###########################################################################
+>>>Time : 2021-07-20 12:39:10.478340
+>>>Passed Error : Message: 
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 39
+>>>Reason : Message: 
+
+###########################################################################
+>>>Time : 2021-07-21 08:38:54.500070
+>>>Passed Error : unhashable type: 'list'
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 131
+>>>Reason : unhashable type: 'list'
+###########################################################################
+>>>Time : 2021-07-21 08:41:12.252949
+>>>Passed Error : unhashable type: 'list'
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 132
+>>>Reason : unhashable type: 'list'
+###########################################################################
+>>>Time : 2021-07-21 11:41:54.547634
+>>>Passed Error : 'str' object has no attribute 'get_attribute'
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 129
+>>>Reason : 'str' object has no attribute 'get_attribute'
+###########################################################################
+>>>Time : 2021-07-21 11:43:09.745024
+>>>Passed Error : 'str' object has no attribute 'get_attribute'
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 128
+>>>Reason : 'str' object has no attribute 'get_attribute'
+###########################################################################
+>>>Time : 2021-07-21 11:47:02.473869
+>>>Passed Error : 'str' object has no attribute 'get_attribute'
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 126
+>>>Reason : 'str' object has no attribute 'get_attribute'
+###########################################################################
+>>>Time : 2021-07-21 11:53:56.808320
+>>>Passed Error : 'str' object has no attribute 'get_attribute'
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 126
+>>>Reason : 'str' object has no attribute 'get_attribute'
+###########################################################################
+>>>Time : 2021-07-21 11:55:33.325384
+>>>Passed Error : list index out of range
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 127
+>>>Reason : list index out of range
+###########################################################################
+>>>Time : 2021-07-21 11:58:13.098477
+>>>Passed Error : list index out of range
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 127
+>>>Reason : list index out of range
+###########################################################################
+>>>Time : 2021-07-21 12:00:09.310400
+>>>Passed Error : list index out of range
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 127
+>>>Reason : list index out of range
+###########################################################################
+>>>Time : 2021-07-21 12:01:10.878616
+>>>Passed Error : 'list' object has no attribute 'find_elements_by_xpath'
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 124
+>>>Reason : 'list' object has no attribute 'find_elements_by_xpath'
+###########################################################################
+>>>Time : 2021-07-22 13:23:07.367858
+>>>Passed Error : Message: chrome not reachable
+  (Session info: chrome=91.0.4472.164)
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 39
+>>>Reason : Message: chrome not reachable
+  (Session info: chrome=91.0.4472.164)
+
+###########################################################################
+>>>Time : 2021-07-22 14:27:53.737735
+>>>Passed Error : Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=91.0.4472.164)
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 38
+>>>Reason : Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=91.0.4472.164)
+
+###########################################################################
+>>>Time : 2021-07-22 14:45:47.221247
+>>>Passed Error : list index out of range
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 128
+>>>Reason : list index out of range
+###########################################################################
+>>>Time : 2021-07-22 14:47:59.300786
+>>>Passed Error : list.append() takes exactly one argument (2 given)
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 129
+>>>Reason : list.append() takes exactly one argument (2 given)
+###########################################################################
+>>>Time : 2021-07-22 14:55:41.512733
+>>>Passed Error : Message: chrome not reachable
+  (Session info: chrome=91.0.4472.164)
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 128
+>>>Reason : Message: chrome not reachable
+  (Session info: chrome=91.0.4472.164)
+
+###########################################################################
+>>>Time : 2021-07-22 14:56:02.603983
+>>>Passed Error : Message: 
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 39
+>>>Reason : Message: 
+
+###########################################################################
+>>>Time : 2021-07-22 15:15:41.766142
+>>>Passed Error : Message: unknown error: cannot determine loading status
+from disconnected: unable to send message to renderer
+  (Session info: chrome=91.0.4472.164)
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 38
+>>>Reason : Message: unknown error: cannot determine loading status
+from disconnected: unable to send message to renderer
+  (Session info: chrome=91.0.4472.164)
+
+###########################################################################
+>>>Time : 2021-07-22 15:16:33.901160
+>>>Passed Error : Message: 
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 39
+>>>Reason : Message: 
+
+###########################################################################
+>>>Time : 2021-07-22 15:17:08.607298
+>>>Passed Error : Message: 
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 39
+>>>Reason : Message: 
+
+###########################################################################
+>>>Time : 2021-07-22 15:32:19.278358
+>>>Passed Error : local variable 'g' referenced before assignment
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 133
+>>>Reason : local variable 'g' referenced before assignment
+###########################################################################
+>>>Time : 2021-07-22 15:47:37.392291
+>>>Passed Error : Message: 
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 39
+>>>Reason : Message: 
+
+###########################################################################
+>>>Time : 2021-07-22 15:52:12.143346
+>>>Passed Error : list index out of range
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 128
+>>>Reason : list index out of range
+###########################################################################
+>>>Time : 2021-07-22 15:54:40.701529
+>>>Passed Error : list index out of range
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 128
+>>>Reason : list index out of range
+###########################################################################
+>>>Time : 2021-07-22 16:04:48.826164
+>>>Passed Error : Message: 
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 39
+>>>Reason : Message: 
+
+###########################################################################
+>>>Time : 2021-07-22 16:06:57.349780
+>>>Passed Error : list index out of range
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 128
+>>>Reason : list index out of range
+###########################################################################
+>>>Time : 2021-07-22 16:13:37.436666
+>>>Passed Error : list index out of range
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 128
+>>>Reason : list index out of range
+###########################################################################
+>>>Time : 2021-07-22 16:16:08.537700
+>>>Passed Error : list index out of range
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 128
+>>>Reason : list index out of range
+###########################################################################
+>>>Time : 2021-07-22 16:20:37.114090
+>>>Passed Error : list index out of range
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 128
+>>>Reason : list index out of range
+###########################################################################
+>>>Time : 2021-07-22 16:25:38.916193
+>>>Passed Error : list index out of range
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 128
+>>>Reason : list index out of range
+###########################################################################
+>>>Time : 2021-07-22 16:27:39.348697
+>>>Passed Error : Message: 
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 39
+>>>Reason : Message: 
+
+###########################################################################
+>>>Time : 2021-07-22 16:40:46.890238
+>>>Passed Error : Message: 
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 39
+>>>Reason : Message: 
+
+###########################################################################
+>>>Time : 2021-07-22 16:52:23.011865
+>>>Passed Error : Message: 
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 39
+>>>Reason : Message: 
+
+###########################################################################
+>>>Time : 2021-07-22 17:07:07.927501
+>>>Passed Error : Message: 
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 39
+>>>Reason : Message: 
+
+###########################################################################
+>>>Time : 2021-07-22 17:07:59.108887
+>>>Passed Error : list index out of range
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 132
+>>>Reason : list index out of range
+###########################################################################
+>>>Time : 2021-07-22 17:09:04.070356
+>>>Passed Error : list index out of range
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 131
+>>>Reason : list index out of range
+###########################################################################
+>>>Time : 2021-07-22 17:13:27.753797
+>>>Passed Error : list index out of range
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 131
+>>>Reason : list index out of range
+###########################################################################
+>>>Time : 2021-07-22 17:14:58.282966
+>>>Passed Error : list index out of range
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 131
+>>>Reason : list index out of range
+###########################################################################
+>>>Time : 2021-07-22 17:26:40.412432
+>>>Passed Error : Message: 
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 39
+>>>Reason : Message: 
+
+###########################################################################
+>>>Time : 2021-07-22 17:27:17.168740
+>>>Passed Error : list index out of range
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 131
+>>>Reason : list index out of range
+###########################################################################
+>>>Time : 2021-07-22 17:31:42.608242
+>>>Passed Error : Message: chrome not reachable
+  (Session info: chrome=91.0.4472.164)
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 39
+>>>Reason : Message: chrome not reachable
+  (Session info: chrome=91.0.4472.164)
+
+###########################################################################
+>>>Time : 2021-07-22 17:32:35.813510
+>>>Passed Error : Message: 
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 39
+>>>Reason : Message: 
+
+###########################################################################
+>>>Time : 2021-07-22 18:01:58.844508
+>>>Passed Error : Message: chrome not reachable
+  (Session info: chrome=91.0.4472.164)
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 127
+>>>Reason : Message: chrome not reachable
+  (Session info: chrome=91.0.4472.164)
+
+###########################################################################
+>>>Time : 2021-07-22 18:09:57.181269
+>>>Passed Error : list index out of range
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 132
+>>>Reason : list index out of range
+###########################################################################
+>>>Time : 2021-07-22 19:29:35.131821
+>>>Passed Error : Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=91.0.4472.164)
+
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 38
+>>>Reason : Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=91.0.4472.164)
+
+###########################################################################
+>>>Time : 2021-07-22 19:34:41.994271
+>>>Passed Error : list index out of range
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 131
+>>>Reason : list index out of range
+###########################################################################
+>>>Time : 2021-07-22 19:39:21.665143
+>>>Passed Error : list index out of range
+>>>File : C:\selenium browser drivers\chromedriver.exe
+>>>Line Number : 131
+>>>Reason : list index out of range
+###########################################################################
